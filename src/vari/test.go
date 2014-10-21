@@ -1,9 +1,10 @@
 package main
 import "fmt"
 func main() {
-//assign variable
+//Assign variable
 /*x1 := 5
-fmt.Println("x is",x1)*/
+fmt.Println("x is",x1)
+*/
 
 // Multiple Variables
 /*var (
@@ -15,7 +16,8 @@ fmt.Println("My dog's name is",a,b,c)*/
 
 //Constants
 /*const x string = "Hello World"
-fmt.Println(x)*/
+fmt.Println(x)
+*/
 
 //String
 //Replace string
@@ -33,6 +35,7 @@ fmt.Printf("%s\n", s)*/
 //Mupltiline string
 /*m := `hello
 world`
-fmt.Printf("%s\n", m)*/
+fmt.Printf("%s\n", m)
+*/
 
 }
