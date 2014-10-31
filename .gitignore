@@ -1,2 +1,4 @@
 /goproject.sublime-project
 *.sublime-workspace
+pkg
+bin
