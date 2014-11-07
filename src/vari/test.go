@@ -3,6 +3,12 @@ package main
 import (
 	"fmt"
 )
+/*------------------[ Declaration variables ]-----------*/;
+var i, j int = 1, 2
+var c, python, java = true, false, "no!"
+
+var i, j int = 1, 2
+    c, python, java := true, false, "no!"
 
 func main() {
 	/*---------------Assign variable------------*/
